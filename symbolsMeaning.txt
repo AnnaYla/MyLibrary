@@ -1,0 +1,33 @@
+,  comma
+"" quotation marks
+{} curly bracket/braces
+[] square bracket
+'' singlequotation marks
+~ tilde
+; semicolon
+:colon
+, comma
+. Period
+* Asterisk
+/ forward Slash
+\ backward Slash
+& ampersand 
+
+
+Parentheses (): Used to enclose arguments in function or method calls, and to group expressions.
+Brackets []: Used to access elements of an array or list, and to define lists in some languages.
+Curly braces {}: Used to enclose code blocks, to define sets or dictionaries, and to format strings in some languages.
+Semicolon ;: Used to terminate statements in some languages, such as C and Java.
+Colon : Used to denote a block of code or a function definition in some languages, such as Python.
+Comma ,: Used to separate items in a list or function arguments.
+Period or dot .: Used to access attributes or methods of an object, or to separate elements of a namespace.
+Ampersand &: Used in some languages to denote bitwise and or logical and.
+Asterisk *: Used to denote multiplication, pointers, and wildcards in regular expressions.
+Slash /: Used to denote division, as well as to separate parts of a file path or URL.
+Plus +: Used to denote addition, as well as string concatenation in some languages.
+Minus -: Used to denote subtraction and negation.
+Percent %: Used to denote modulo or remainder operations.
+Less than < and greater than >: Used to denote comparison operators, as well as to indicate HTML tags.
+Equals sign =: Used to assign values to variables, as well as to test for equality.
+Exclamation mark !: Used in some languages to denote logical negation.
+Question mark ?: Used in some languages to denote a ternary operator for conditional expressions.

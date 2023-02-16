@@ -1,0 +1,17 @@
+//to indent forward 
+tab
+
+//to indent back
+shift +tab
+
+//to select lines of code
+shift + arrow ? or ?
+
+//to open emoji
+windows key + .
+
+//to create \ backward Slash
+alt dr + fn + \
+
+// to exit vim
+esc + : + q+ enter
